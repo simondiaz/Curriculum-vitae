@@ -1,0 +1,1 @@
+Para vusializar el curriculum abrir el archivo "CV Simón Díaz" e un navegador.
